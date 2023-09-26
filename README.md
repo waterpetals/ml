@@ -1,4 +1,4 @@
-### MLCAMP
+### Machine Learning
 1. Introduction to Machine Learning
 2. Machine Learning for Regression
 3. Machine Learning for Classification
